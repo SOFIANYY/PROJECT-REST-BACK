@@ -1,0 +1,15 @@
+{
+  "name": "projet-rest-back",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  }
+}
