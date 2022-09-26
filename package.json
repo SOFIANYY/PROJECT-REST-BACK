@@ -11,5 +11,11 @@
   "repository": {
     "type": "git",
     "url": "yes"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.1"
   }
 }
